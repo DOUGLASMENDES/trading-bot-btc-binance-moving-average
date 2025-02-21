@@ -28,7 +28,7 @@ This project is a Bitcoin trading bot that generates buy/sell signals using the 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/trading_bot_btc_binance_moving_average.git
+    git clone https://github.com/douglasmendes/trading_bot_btc_binance_moving_average.git
     cd trading_bot_btc_binance_moving_average
     ```
 
